@@ -13,21 +13,11 @@ This is a backend API built with **Express.js** and **Firebase Admin SDK** to ha
 5. CORS protection with whitelist
 6. Logging with Morgan 
 
-## Screenshots
-
-<p>
-  <img src="screenshots/sign_in.png" alt="Home Screen" width="200" style="display:inline-block; margin-right:10px;"/>
-  <img src="screenshots/sign_up.png" alt="Home Screen" width="200" style="display:inline-block; margin-right:10px;"/>
-  <img src="screenshots/profile_demo.gif" alt="Home Screen" width="200" style="display:inline-block; margin-right:10px;"/>
-  <img src="screenshots/contacts_demo.gif" alt="Home Screen" width="200" style="display:inline-block; margin-right:10px;"/>
-</p>
-
 ## Tech Stack
 
 ### 🛠️ Core Technologies
 
-- **[Flutter](https://flutter.dev/)** – UI toolkit for building natively compiled applications across mobile, web, and desktop from a single codebase.
-- **[Dart](https://dart.dev/)** – Programming language optimized for building fast, multi-platform apps.
+- **[Node.js](https://nodejs.org/)** – JavaScript runtime built on Chrome's V8 engine for building fast and scalable server-side applications.
 
 ### 🧩 Middleware
 
